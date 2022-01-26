@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "tytul": "Solaris",
+        "autor": "Stanislaw Lem",
+        "przeczytane": true
+    },
+    {
+        "id": 2,
+        "tytul": "Babadag",
+        "autor": "Andrzej Stasiuk",
+        "przeczytane": true
+    }
+]
